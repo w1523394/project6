@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Fruity Facts</string>
+    <string name="title_label">Welcome!</string>
+    <string name="enter">Enter</string>
+    <string name="apple">Apple</string>
+    <string name="avacado">Avacado</string>
+    <string name="bannana">Banana</string>
+    <string name="blackberry">Blackberry</string>
+    <string name="blueberry">Blueberry</string>
+    <string name="cherry">Cherry</string>
+    <string name="coconut">Coconut</string>
+    <string name="cranberry">Cranberry</string>
+    <string name="cucumber">Cucumber</string>
+    <string name="nextPage">Next Page</string>
+    <string name="grape">Grape</string>
+    <string name="grapefruit">Grapefruit</string>
+    <string name="kiwi">Kiwi</string>
+    <string name="lemon">Lemon</string>
+    <string name="lime">Lime</string>
+    <string name="mango">Mango</string>
+    <string name="nextPage2">Next Page</string>
+    <string name="melon">Melon</string>
+    <string name="orange">Orange</string>
+    <string name="peach">Peach</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="pomegranate">Pomegranate</string>
+    <string name="raspberry">Raspberry</string>
+    <string name="strawberry">Strawberry</string>
+    <string name="tomato">Tomato</string>
+    <string name="guava">Guava</string>
+</resources>

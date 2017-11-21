@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.buscis_c2_l11.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Main2Activity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Main3Activity" />
+        <activity android:name=".Main4Activity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Main5Activity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".AppleActivity" />
+        <activity android:name=".AvacadoActivity" />
+        <activity android:name=".BannanaActivity" />
+        <activity android:name=".CherryActivity" />
+        <activity android:name=".BlackberryActivity" />
+        <activity android:name=".BlueberryActivity" />
+        <activity android:name=".CoconutActivity" />
+        <activity android:name=".CranberryActivity" />
+        <activity android:name=".CucumberActivity" />
+        <activity android:name=".GrapeActivity" />
+        <activity android:name=".GrapefruitActivity" />
+        <activity android:name=".GuavaActivity" />
+        <activity android:name=".KiwiActivity" />
+        <activity android:name=".LemonActivity" />
+        <activity android:name=".LimeActivity" />
+        <activity android:name=".MangoActivity" />
+        <activity android:name=".MelonActivity" />
+        <activity android:name=".OrangeActivity" />
+        <activity android:name=".PeachActivity" />
+        <activity android:name=".PineappleActivity" />
+        <activity android:name=".PomegranateActivity" />
+        <activity android:name=".RaspberryActivity" />
+        <activity android:name=".StrawberryActivity" />
+        <activity android:name=".TomatoActivity"></activity>
+    </application>
+
+</manifest>
